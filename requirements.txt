@@ -1,4 +1,4 @@
-colorama
-emailprotectionslib>=0.8.2
-dnslib
-tldextract
+colorama==0.4.6
+py-emailprotections==0.8.5
+dnslib==0.9.23
+tldextract==3.4.0
